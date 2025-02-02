@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-dantez
 - 👀 I’m interested in web development, software development, both frontend and backend.
-- 🌱 I’m currently learning typsecript, laravel.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning laravel...
+- 💞️ I’m looking to collaborate on the current project "Kusoma LMS", Created using PHP for the backend, Html, css and javascript.
 - 📫 How to reach me danielwanjiru837@gmail.com
 
 <!---
