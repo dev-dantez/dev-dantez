@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @dev-dantez<br>
 - 👀 I’m interested in web development, software development, both frontend and backend.<br>
 - 🌱 I’m currently learning laravel...<br>
-- 💞️ I’m looking to collaborate on the current project "ElimuTechlms", Created using PHP (laravel) for the backend, Html, css and javascript.<br>
+- 💞️ I’m looking to collaborate on the current project "ElimuTech LMS", Created using PHP (laravel) for the backend, Html, css and javascript.<br>
 - 📫 How to reach me danielwanjiru837@gmail.com<br><br>
 <!---<br>dev-dantez/dev-dantez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
 
